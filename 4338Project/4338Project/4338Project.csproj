@@ -58,6 +58,9 @@
     <Compile Include="Borisova_4338.xaml.cs">
       <DependentUpon>Borisova_4338.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Gainutdinov_4338.xaml.cs">
+      <DependentUpon>Gainutdinov_4338.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Nasyybullin_4338.xaml.cs">
       <DependentUpon>Nasyybullin_4338.xaml</DependentUpon>
     </Compile>
@@ -68,6 +71,10 @@
       <DependentUpon>Salikhzyanov_4338.xaml</DependentUpon>
     </Compile>
     <Page Include="Borisova_4338.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Gainutdinov_4338.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
