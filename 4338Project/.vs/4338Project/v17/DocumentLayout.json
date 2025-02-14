@@ -1,49 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\",
+  "WorkspaceRootPath": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338group\\4338project\\4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\nasyybullin_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\nasyybullin_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\nasyybullin_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\sn1kerss\\desktop\\4338group\\4338project\\4338project\\nigmatzyanov_4338.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\nigmatzyanov_4338.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\sn1kerss\\desktop\\4338group\\4338project\\4338project\\nigmatzyanov_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\nigmatzyanov_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\nasyybullin_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\nasyybullin_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\nasyybullin_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\nasyybullin_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\kuznetsova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\sn1kerss\\desktop\\4338group\\4338project\\4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\kuznetsova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\kuznetsova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\kuznetsova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\kuznetsova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\kuznetsova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\yusupov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\yusupov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\yusupov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\salikhzyanov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\salikhzyanov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\salikhzyanov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\salikhzyanov_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338project\\salikhzyanov_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\salikhzyanov_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -54,16 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -71,6 +71,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -82,11 +86,31 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -94,46 +118,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Borisova_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml",
-              "RelativeDocumentMoniker": "4338Project\\Borisova_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml",
-              "RelativeToolTip": "4338Project\\Borisova_4338.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-31T11:13:21.485Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Nasyybullin_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml.cs",
-              "RelativeDocumentMoniker": "4338Project\\Nasyybullin_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml.cs",
-              "RelativeToolTip": "4338Project\\Nasyybullin_4338.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAASwBwAAABLAAAAAAAAAA==",
+              "Title": "Nigmatzyanov_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nigmatzyanov_4338.xaml.cs",
+              "RelativeDocumentMoniker": "4338Project\\Nigmatzyanov_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nigmatzyanov_4338.xaml.cs",
+              "RelativeToolTip": "4338Project\\Nigmatzyanov_4338.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T11:50:29.392Z"
+              "WhenOpened": "2025-02-14T11:33:18.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "4338Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAvwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T11:43:22.487Z"
+              "WhenOpened": "2025-01-30T11:43:22.487Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Borisova_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\Borisova_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
               "RelativeToolTip": "4338Project\\Borisova_4338.xaml.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,55 +157,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "4338Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
               "RelativeToolTip": "4338Project\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T11:38:01.915Z"
+              "WhenOpened": "2025-01-30T11:38:01.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nigmatzyanov_4338.xaml",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nigmatzyanov_4338.xaml",
+              "RelativeDocumentMoniker": "4338Project\\Nigmatzyanov_4338.xaml",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nigmatzyanov_4338.xaml",
+              "RelativeToolTip": "4338Project\\Nigmatzyanov_4338.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T11:32:11.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nasyybullin_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml.cs",
+              "RelativeDocumentMoniker": "4338Project\\Nasyybullin_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml.cs",
+              "RelativeToolTip": "4338Project\\Nasyybullin_4338.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:50:29.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Nasyybullin_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml",
               "RelativeDocumentMoniker": "4338Project\\Nasyybullin_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml",
               "RelativeToolTip": "4338Project\\Nasyybullin_4338.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T11:44:10.015Z"
+              "WhenOpened": "2025-01-30T11:44:10.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "Borisova_4338.xaml",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml",
+              "RelativeDocumentMoniker": "4338Project\\Borisova_4338.xaml",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml",
+              "RelativeToolTip": "4338Project\\Borisova_4338.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T11:13:21.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Salikhzyanov_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml",
               "RelativeDocumentMoniker": "4338Project\\Salikhzyanov_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml",
               "RelativeToolTip": "4338Project\\Salikhzyanov_4338.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-30T11:42:15.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Kuznetsova_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
               "RelativeDocumentMoniker": "4338Project\\Kuznetsova_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
               "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T18:14:52.194Z"
+              "WhenOpened": "2025-01-30T18:14:52.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Salikhzyanov_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\Salikhzyanov_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml.cs",
               "RelativeToolTip": "4338Project\\Salikhzyanov_4338.xaml.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAASwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Kuznetsova_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\Kuznetsova_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
               "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAvwB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Yusupov_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Yusupov_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Yusupov_4338.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\Yusupov_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Yusupov_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\sn1kerss\\Desktop\\4338Group\\4338Project\\4338Project\\Yusupov_4338.xaml.cs",
               "RelativeToolTip": "4338Project\\Yusupov_4338.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
