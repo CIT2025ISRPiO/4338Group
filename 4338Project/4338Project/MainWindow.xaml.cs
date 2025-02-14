@@ -56,5 +56,11 @@ namespace _4338Project
             Borisova_4338 ksen = new Borisova_4338();
             ksen.Show();
         }
+
+        private void DamirInfoButton_Click(object sender, RoutedEventArgs e)
+        {
+            Nigmatzyanov_4338 nigmatzyanov_4338 = new Nigmatzyanov_4338();
+            nigmatzyanov_4338.Show();
+        }
     }
 }

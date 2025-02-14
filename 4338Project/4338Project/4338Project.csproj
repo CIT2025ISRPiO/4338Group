@@ -61,6 +61,9 @@
     <Compile Include="Nasyybullin_4338.xaml.cs">
       <DependentUpon>Nasyybullin_4338.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Nigmatzyanov_4338.xaml.cs">
+      <DependentUpon>Nigmatzyanov_4338.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Yusupov_4338.xaml.cs">
       <DependentUpon>Yusupov_4338.xaml</DependentUpon>
     </Compile>
@@ -91,6 +94,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Nasyybullin_4338.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Nigmatzyanov_4338.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
