@@ -5,23 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_4338Project"
         mc:Ignorable="d"
-        Title="BayazovaDi" Height="450" Width="800">
+     Title="BayazovaDi" Height="500" Width="850" Background="#121212">
     <Grid>
-        <Grid>
-            <WrapPanel Orientation="Horizontal">
-                <Button Margin="20,10,05,30" Click="Button_Click" >О разработчике</Button>
-                <Button Margin="20,10,05,30" Click="Button_Click_1" Content="Экспорт в Excel"/>
-                <Button Margin="15,10,43,30" Click="Button_Click_2" Content="Импорт данных"/>
-                <DataGrid x:Name="dataGridUsl" Width="700" Margin="20,0,0,0" Background="White" AutoGenerateColumns="False">
-                    <DataGrid.Columns>
-                        <DataGridTextColumn Header="ID" Binding="{Binding IdServices}" Width="50"/>
-                        <DataGridTextColumn Header="Название услуги" Binding="{Binding NameServices}" Width="150"/>
-                        <DataGridTextColumn Header="Вид услуги" Binding="{Binding TypeOfService}" Width="150"/>
-                        <DataGridTextColumn Header="Код услуги" Binding="{Binding CodeService}" Width="150"/>
-                        <DataGridTextColumn Header="Стоимость" Binding="{Binding Cost}" Width="100"/>
-                    </DataGrid.Columns>
-                </DataGrid>
-            </WrapPanel>
-        </Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Background="#1E1E1E" Margin="10">
+            <Button Click="Button_Click" Content="О разработчике" 
+                    Margin="5" Padding="10" FontWeight="Bold" Foreground="White" Background="#6200EE" BorderThickness="0" Cursor="Hand"/>
+            <Button Click="Button_Click_1" Content="Экспорт в Excel" 
+                    Margin="5" Padding="10" FontWeight="Bold" Foreground="White" Background="#03DAC6" BorderThickness="0" Cursor="Hand"/>
+            <Button Click="Button_Click_2" Content="Импорт данных" 
+                    Margin="5" Padding="10" FontWeight="Bold" Foreground="White" Background="#BB86FC" BorderThickness="0" Cursor="Hand"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" Margin="20" CornerRadius="10" Background="#1E1E1E" Padding="10">
+            <DataGrid x:Name="dataGridUsl" AutoGenerateColumns="False" Background="#1E1E1E" BorderThickness="0"
+                      AlternatingRowBackground="#333333" HeadersVisibility="Column" FontSize="14" RowHeight="35" Foreground="White">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding IdServices}" Width="50"/>
+                    <DataGridTextColumn Header="Название услуги" Binding="{Binding NameServices}" Width="200"/>
+                    <DataGridTextColumn Header="Вид услуги" Binding="{Binding TypeOfService}" Width="200"/>
+                    <DataGridTextColumn Header="Код услуги" Binding="{Binding CodeService}" Width="150"/>
+                    <DataGridTextColumn Header="Стоимость" Binding="{Binding Cost}" Width="100"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
     </Grid>
 </Window>
