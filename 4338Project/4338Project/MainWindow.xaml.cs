@@ -56,5 +56,22 @@ namespace _4338Project
             Borisova_4338 ksen = new Borisova_4338();
             ksen.Show();
         }
+
+		private void KsenButton_Click(object sender, RoutedEventArgs e)
+		{
+
+        }
+
+		private void KsenButton_Click_1(object sender, RoutedEventArgs e)
+		{
+
+        }
+
+		private void Button_Click_Di(object sender, RoutedEventArgs e)
+		{
+			BayazovaDi bayazovaDi = new BayazovaDi();
+			bayazovaDi.Show();
+			this.Hide();
+		}
     }
 }

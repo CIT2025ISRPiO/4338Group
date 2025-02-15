@@ -31,5 +31,6 @@
         <Button Name="AidarInfoButton" Width="150" Height="30" Content="Салихзянов Айдар" Click="AidarInfoButton_Click" Grid.Row="13"/>
         <Button Name="AmirInfoButton" Width="150" Height="30" Content="Насыйбуллин Амир" Click="AmirInfoButton_Click" Grid.Row="10"/>
         <Button Name="KsenButton" Content="Борисова Ксения" Width="150" Height="30" Click="Button_Click_Ksen" Grid.Row="1"/>
+        <Button Name="DiButton" Content="Баязова Диана" Width="150" Height="30" Click="Button_Click_Di" Grid.Row="0"/>
     </Grid>
 </Window>

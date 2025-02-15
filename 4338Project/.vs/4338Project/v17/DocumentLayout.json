@@ -1,50 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338group\\4338project\\4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\huawei\\desktop\\4338group\\4338project\\4338project\\bayazovadi_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\bayazovadi_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\nasyybullin_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\nasyybullin_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\bayazovadi_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\bayazovadi_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\usl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\usl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\nasyybullin_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\nasyybullin_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\kuznetsova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\kuznetsova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\kuznetsova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\kuznetsova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\yusupov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\yusupov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\salikhzyanov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\salikhzyanov_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\salikhzyanov_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\salikhzyanov_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,16 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -74,11 +74,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:772836740:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:772836740:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
               "$type": "Bookmark",
@@ -86,139 +86,169 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Borisova_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml",
-              "RelativeDocumentMoniker": "4338Project\\Borisova_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml",
-              "RelativeToolTip": "4338Project\\Borisova_4338.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-31T11:13:21.485Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Nasyybullin_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml.cs",
-              "RelativeDocumentMoniker": "4338Project\\Nasyybullin_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml.cs",
-              "RelativeToolTip": "4338Project\\Nasyybullin_4338.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAASwBwAAABLAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BayazovaDi_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\BayazovaDi_4338.xaml.cs",
+              "RelativeDocumentMoniker": "4338Project\\BayazovaDi_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\BayazovaDi_4338.xaml.cs",
+              "RelativeToolTip": "4338Project\\BayazovaDi_4338.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T11:50:29.392Z"
+              "WhenOpened": "2025-02-14T09:55:56.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BayazovaDi_4338.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\BayazovaDi_4338.xaml",
+              "RelativeDocumentMoniker": "4338Project\\BayazovaDi_4338.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\BayazovaDi_4338.xaml",
+              "RelativeToolTip": "4338Project\\BayazovaDi_4338.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T11:38:29.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "4338Project\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.Context.cs",
+              "RelativeToolTip": "4338Project\\Model1.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:52:57.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "4338Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAvwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T11:43:22.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Borisova_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
-              "RelativeDocumentMoniker": "4338Project\\Borisova_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
-              "RelativeToolTip": "4338Project\\Borisova_4338.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:14:33.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "4338Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
-              "RelativeToolTip": "4338Project\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T11:38:01.915Z"
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "4338Project\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.Designer.cs",
+              "RelativeToolTip": "4338Project\\Model1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:51:10.507Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Nasyybullin_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml",
-              "RelativeDocumentMoniker": "4338Project\\Nasyybullin_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Nasyybullin_4338.xaml",
-              "RelativeToolTip": "4338Project\\Nasyybullin_4338.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T11:44:10.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Salikhzyanov_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml",
-              "RelativeDocumentMoniker": "4338Project\\Salikhzyanov_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml",
-              "RelativeToolTip": "4338Project\\Salikhzyanov_4338.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T11:42:15.09Z"
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "4338Project\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.Context.tt",
+              "RelativeToolTip": "4338Project\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-14T11:51:09.186Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Kuznetsova_4338.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
-              "RelativeDocumentMoniker": "4338Project\\Kuznetsova_4338.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
-              "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T18:14:52.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Salikhzyanov_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml.cs",
-              "RelativeDocumentMoniker": "4338Project\\Salikhzyanov_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Salikhzyanov_4338.xaml.cs",
-              "RelativeToolTip": "4338Project\\Salikhzyanov_4338.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAASwB0AAAAAAAAAAAAAAA==",
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.cs",
+              "RelativeDocumentMoniker": "4338Project\\Model1.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.cs",
+              "RelativeToolTip": "4338Project\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T11:44:33.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Kuznetsova_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
-              "RelativeDocumentMoniker": "4338Project\\Kuznetsova_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
-              "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAvwB0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:23:50.32Z"
+              "WhenOpened": "2025-02-14T10:31:07.416Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Yusupov_4338.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Yusupov_4338.xaml.cs",
-              "RelativeDocumentMoniker": "4338Project\\Yusupov_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Yusupov_4338.xaml.cs",
-              "RelativeToolTip": "4338Project\\Yusupov_4338.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Usl.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Usl.cs",
+              "RelativeDocumentMoniker": "4338Project\\Usl.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Usl.cs",
+              "RelativeToolTip": "4338Project\\Usl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T10:25:24.561Z"
+              "WhenOpened": "2025-02-14T10:31:08.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.tt",
+              "RelativeDocumentMoniker": "4338Project\\Model1.tt",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.tt",
+              "RelativeToolTip": "4338Project\\Model1.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-14T10:46:43.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Borisova_4338.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
+              "RelativeDocumentMoniker": "4338Project\\Borisova_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml.cs",
+              "RelativeToolTip": "4338Project\\Borisova_4338.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:46:31.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "4338Project\\Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.edmx.diagram",
+              "RelativeToolTip": "4338Project\\Model1.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T10:32:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.edmx",
+              "RelativeDocumentMoniker": "4338Project\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "4338Project\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-14T10:29:02.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "4338Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
+              "RelativeToolTip": "4338Project\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T11:38:01.915Z"
             }
           ]
         },
